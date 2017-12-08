@@ -15,7 +15,7 @@ W.~C.~Huang, H.~Ishida, C.~T.~Lu, Y.~L.~S.~Tsai and T.~C.~Yuan,
 Signals of New Gauge Bosons in Gauged Two Higgs Doublet Model,
 arXiv:1708.02355 [hep-ph].
 
-# The authors to contribute to the gauged2HDM-Codes are:
+# The authors contributing to the gauged2HDM-Codes are:
 
 Yue-Lin Sming Tsai <smingtsai@gmail.com>
 V.Q Tran <apc.tranque@gmail.com> 
