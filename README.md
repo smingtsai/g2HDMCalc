@@ -1,4 +1,4 @@
-# gauged2HDM-Codes
+# g2HDMCalc
 The tools of computating the mass spectrum and observables of G2HDM. 
 
 The references:
